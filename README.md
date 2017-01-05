@@ -1,1 +1,1 @@
-echo # repositorio_prueba
+Repositorio para hacer pruebas
